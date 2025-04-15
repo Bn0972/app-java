@@ -7,7 +7,7 @@ public class Main {
         //     System.out.println("i = " + i + " ");
         // }
         string[] arr1 = {"Piotr","Anna","Jan","Leszek"};
-         for(int i = ; i <4 ;i++)
+         for(int i = 0 ; i <4 ;i++)
         {
             System.out.println((i+1)+". " arr1[i]);
         }
