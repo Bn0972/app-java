@@ -9,7 +9,7 @@ public class Main {
         string[] arr1 = {"Piotr","Anna","Jan","Leszek"};
          for(int i = 0 ; i <4 ;i++)
         {
-            System.out.println((i+1)+". " arr1[i]);
+            System.out.println((i+1)+". "+ arr1[i]);
         }
     }
 }
